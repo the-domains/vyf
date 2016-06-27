@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-27T14:57:37.604Z'
-dateModified: '2016-06-27T14:57:36.285Z'
+datePublished: '2016-06-27T14:58:19.702Z'
+dateModified: '2016-06-27T14:57:58.116Z'
 author:
   - name: ''
     url: ''
@@ -14,7 +14,7 @@ title: Vermont Youth Fellowship
 sourcePath: _posts/2016-06-27-vermont-youth-fellowship.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: vermont-youth-fellowship/index.html
 _type: Article
 

@@ -4,11 +4,13 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Vermont Youth Fellowship
-datePublished: '2016-06-27T14:53:23.418Z'
-dateModified: '2016-06-27T14:52:44.979Z'
-author: []
-title: ''
+description: ''
+datePublished: '2016-06-27T14:57:37.604Z'
+dateModified: '2016-06-27T14:57:36.285Z'
+author:
+  - name: ''
+    url: ''
+title: Vermont Youth Fellowship
 sourcePath: _posts/2016-06-27-vermont-youth-fellowship.md
 authors: []
 publisher: null
@@ -21,4 +23,4 @@ _type: Article
 
 Vermont Youth Fellowship
 
-We are Youth Pastors and Leaders coming together to resource and refresh one another spiritually,
+Youth workers, working together.
